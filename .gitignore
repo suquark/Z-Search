@@ -1,0 +1,9 @@
+
+.idea/
+out/
+dependency/
+*.rar
+*.zip
+*.pdf
+*.iml
+*.dic
